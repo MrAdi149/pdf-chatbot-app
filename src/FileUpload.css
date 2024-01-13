@@ -1,0 +1,27 @@
+/* FileUpload Container */
+.file-upload-container {
+    margin-bottom: 20px;
+  }
+  
+  /* File Upload Input */
+  .file-upload-input {
+    display: none;
+  }
+  
+  .file-upload-label {
+    cursor: pointer;
+    display: inline-block;
+    padding: 10px 15px;
+    background-color: #3498db;
+    color: #fff;
+    border-radius: 5px;
+    font-size: 16px;
+  }
+  
+  /* Upload Status */
+  .upload-status {
+    margin-top: 10px;
+    font-size: 14px;
+    color: #fff;
+  }
+  
